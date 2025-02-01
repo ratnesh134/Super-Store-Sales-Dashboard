@@ -45,4 +45,4 @@ Ratnesh Kumar
 
 ## Dashboard
 
-![Alt text](https://github.com/ratnesh134/Super-Store-Sales-Dashboard)
+![Alt text](https://github.com/ratnesh134/Super-Store-Sales-Dashboard/blob/main/SuperStoreDashboard.jpeg)
