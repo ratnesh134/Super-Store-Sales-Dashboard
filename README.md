@@ -46,3 +46,8 @@ Ratnesh Kumar
 ## Dashboard
 
 ![Alt text](https://github.com/ratnesh134/Super-Store-Sales-Dashboard/blob/main/SuperStoreDashboard.jpeg)
+
+
+## Forecast
+
+![Alt text](https://github.com/ratnesh134/Super-Store-Sales-Dashboard/blob/main/SalesForecast.jpeg)
